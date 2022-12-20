@@ -7,6 +7,6 @@ A Python Developer and Backend Developer
 - AI Learner with Computer Vision, Machine learning
 - React and React native
 
-![Doan's github stats](https://github-readme-stats.vercel.app/api?username=doandv-java&count_private=true&theme=radical)
+<!-- ![Doan's github stats](https://github-readme-stats.vercel.app/api?username=doandv-java&count_private=true&theme=radical) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doandv-java&langs_count=10&theme=tokyonight&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doandv-java&langs_count=10&theme=tokyonight&layout=compact) -->
