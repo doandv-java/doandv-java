@@ -1,6 +1,6 @@
 ### Hi there, I'm DoanDV
 
-A Python Developer and Backend Developer
+Backend Developer
 
 - Java Backend Developer
 - Python Backend Developer with Flask, Django
